@@ -8,3 +8,5 @@ static double calc(int[] tab)
 {
     return tab.Average(); 
 }
+
+Console.WriteLine("moj drugi commit");
