@@ -4,9 +4,9 @@
 int[] tab = { 1, 2, 4, 4, 43, 2, 4, };
 Console.WriteLine(calc(tab));
 
-static double calc(int[] tab)
+static double calc(int[] tablica)
 {
-    return tab.Average(); 
+    return tablica.Average(); 
 }
 
 Console.WriteLine("moj drugi commit");
